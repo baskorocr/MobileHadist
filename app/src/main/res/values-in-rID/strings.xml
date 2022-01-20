@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Direktori Hadist</string>
+    <string name="hadist">Direktori Hadist</string>
+    <string name="jadwal">Jadwal Sholat</string>
+    <string name="keluar">Keluar</string>
+    <string name="jam">Jam</string>
+    <string name="sholat">Sholat</string>
+    <string name="kota">Kota</string>
+    <string name="cari">Cari</string>
+    <string name="artinya">artinya :</string>
+</resources>

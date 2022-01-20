@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hadist Directory</string>
+    <string name="hadist">Hadist Directory</string>
+    <string name="jadwal">prayer schedule</string>
+    <string name="keluar">Exit</string>
+    <string name="jam">O\'clock</string>
+    <string name="sholat">Prayer</string>
+    <string name="kota">City</string>
+    <string name="cari">Search</string>
+    <string name="artinya">meaning :</string>
+</resources>
